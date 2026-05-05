@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Squarrel/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Squarrel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/LTXXBOBDOKXL4EG7CKLK9N.uasset",
+				"D:/Squarrel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
