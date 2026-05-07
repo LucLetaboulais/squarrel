@@ -7,10 +7,9 @@
 			"files": [
 				"D:/squarrel/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Squarrel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/LTXXBOBDOKXL4EG7CKLK9N.uasset",
-				"D:/squarrel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/squarrel/Content/ThirdPerson/Blueprints/BP_Nut.uasset",
+				"D:/Squarrel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Squarrel/Content/ThirdPerson/Blueprints/BP_Nut.uasset",
 				"D:/squarrel/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"D:/squarrel/Content/Characters/Mannequins/Materials/M_Nut.uasset",
 				"D:/squarrel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RW/VFUGOBUCMD92MBR5QWWWHX.uasset",
 				"D:/squarrel/Content/ThirdPerson/Input/Actions/IA_GrabLeft.uasset",
 				"D:/squarrel/Content/ThirdPerson/Input/Actions/IA_GrabRight.uasset",
@@ -52,7 +51,11 @@
 				"D:/squarrel/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset",
 				"D:/squarrel/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset",
 				"D:/squarrel/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset",
-				"D:/squarrel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+				"D:/squarrel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Squarrel/Content/LevelPrototyping/Materials/M_Nut.uasset",
+				"D:/Squarrel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4I/46YGGG7BXGCZECOU6ES94S.uasset",
+				"D:/Squarrel/Content/Models/nut.uasset",
+				"D:/Squarrel/Content/Characters/Mannequins/Materials/M_Nut.uasset"
 			]
 		}
 	]
